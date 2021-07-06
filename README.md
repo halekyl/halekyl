@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 :muscle: Love being challenged and engaging with projects that push me outside my comfort and knowledge set.\
 :brain: Value continued learning of new languages and development techniques for success. 
 
+#### :mortar_board: Computer Science, Oregon State University
+
 ### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -22,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 
-#### :mortar_board: Computer Science, Oregon State University
+
