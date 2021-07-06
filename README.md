@@ -24,4 +24,6 @@ You can click the Preview link to take a look at your changes.
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 
+###
 
+<a href="https://www.linkedin.com/in/kylee-hale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kylee%20Bonds-blue?style=flat-square&logo=linkedin"/></a>
